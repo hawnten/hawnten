@@ -1,6 +1,6 @@
 <hr />
 <div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1012354587241488447/1185391458983890985/Untitled801_20231215202217.png?ex=658f70d3&is=657cfbd3&hm=cf4cd879a71c8db66646cb06dbb35303e3b21b539c04e5f56c0a849f1bb11512&" width="200"/>
+  <img src="https://cdn.discordapp.com/attachments/1012354587241488447/1185397080424988763/Untitled801_20231215204437.png?ex=658f760f&is=657d010f&hm=62b60695f6d1d7a6b5991972c710e12fa1dad040116f1692358ddf2e506eaeb2&" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://instagram.com/hawnten">
